@@ -1,6 +1,8 @@
 # Package Guy - UEFI_Game
 Low-level implementation of an arcade game written in C that runs directly as a native UEFI application (no OS required).
 
+![Game Screenshot](/media/ss.png)
+
 ## About the project
 The application demonstrates the practical use of the UEFI specification for creating system software. The game runs as a native boot application (`.efi`), taking full control of the hardware before the operating system loads.
 
